@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://khizarfareed.netlify.app/web-preview-200.png" target="blank"><img align="center" src="https://khizarfareed.netlify.app/" alt="khizar_fareed_" height="40" width="40" /></a>
+  <a href="https://khizarfareed.netlify.app" target="blank"><img align="center" src="https://khizarfareed.netlify.app/web-preview-200.png" alt="khizar_fareed_" height="40" width="40" /></a>
 <a href="https://instagram.com/khizar_fareed_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khizar_fareed_" height="30" width="40" /></a>
 </p>
 
